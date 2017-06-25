@@ -6,9 +6,10 @@ body {
   color: rgb(27, 27, 27);
 }
 
-h1 {
+h1,
+h2 {
   font-family: 'Archivo Black', sans-serif;
-  font-size: 3em;
+  /*font-size: 3em;*/
 }
 
 .active {
