@@ -1,0 +1,14 @@
+body {
+  background-color: hsl(0, 0%, 90%);
+  font-family: 'Tenor sans', sans-serif;
+  color: rgb(27, 27, 27);
+}
+
+h1 {
+  font-family: 'Archivo Black', sans-serif;
+  font-size: 3em;
+}
+
+.active {
+  color: green;
+}
